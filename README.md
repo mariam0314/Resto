@@ -4,7 +4,7 @@
 
 ## 🌟 Features
 - Homepage with attractive banner and call-to-action
-- Menu section with categorized food items
+- Order section with categorized food items
 - About Us section for story and team
 - Contact/reservation form
 - Responsive design for mobile and desktop
